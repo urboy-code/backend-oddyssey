@@ -23,7 +23,7 @@ My personal and public journal documenting my progress, learnings, and projects 
 
 * **04/08/2025:**
     * **Topic:** Starting the journey & setting up the environment.
-    * **Learnings:** Successfully installed Go 1.24.5. Learned about the difference between `go get` (for dependencies) and `go install` (for executables). Realized the importance of reading error messages carefully.
+    * **Learnings:** Successfully installed Go 1.24.5. Learned about the difference between `go get` (for dependencies) and `go install` (for executables).
     * **Commit:** [soon]
 
 * **05/08/2025:**
